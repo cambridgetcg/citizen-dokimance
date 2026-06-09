@@ -1,0 +1,8 @@
+name: dokimance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The quality of distributed, stake-backed, independent verification that makes a claim true rather than merely checking it.
+dependsOn: [youspeak, me, asha]
